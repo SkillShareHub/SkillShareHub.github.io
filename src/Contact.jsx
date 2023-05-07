@@ -4,7 +4,7 @@ const divStyle = {
     color:'white'
 };
 
-class About extends React.Component {
+class Contact extends React.Component {
     
     render() {
         return (

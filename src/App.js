@@ -1,5 +1,9 @@
+import React from 'react';
 import logo from './logo.svg';
 import './App.css';
+import Routes from './Routes';
+
+const endpoint = "https://skillsharehub.com/skillsharehub";
 
 function App() {
   return (
