@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/skillsharehub/static/css/main.073c9b0a.css",
-    "main.js": "/skillsharehub/static/js/main.3726042b.js",
-    "static/js/787.b4a237df.chunk.js": "/skillsharehub/static/js/787.b4a237df.chunk.js",
-    "static/media/logo.svg": "/skillsharehub/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/skillsharehub/index.html",
-    "main.073c9b0a.css.map": "/skillsharehub/static/css/main.073c9b0a.css.map",
-    "main.3726042b.js.map": "/skillsharehub/static/js/main.3726042b.js.map",
-    "787.b4a237df.chunk.js.map": "/skillsharehub/static/js/787.b4a237df.chunk.js.map"
+    "main.css": "/static/css/main.1e35f37d.css",
+    "main.js": "/static/js/main.c56cb54c.js",
+    "static/js/787.b4a237df.chunk.js": "/static/js/787.b4a237df.chunk.js",
+    "static/media/Acme-Regular.ttf": "/static/media/Acme-Regular.9f25ca8b2435fcab381a.ttf",
+    "index.html": "/index.html",
+    "main.1e35f37d.css.map": "/static/css/main.1e35f37d.css.map",
+    "main.c56cb54c.js.map": "/static/js/main.c56cb54c.js.map",
+    "787.b4a237df.chunk.js.map": "/static/js/787.b4a237df.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.3726042b.js"
+    "static/css/main.1e35f37d.css",
+    "static/js/main.c56cb54c.js"
   ]
 }
