@@ -1,17 +1,16 @@
 import React from "react";
-import { Route, Switch, Redirect } from "react-router-dom";
-import Home from "./Home";
+import { Route, Routes, Redirect } from "react-router-dom";
 import Contact from "./Contact";
 import About from "./About";
 
 
 const Routes = props => {
   return (
-    <Switch>
+    <Routes>
       <Route exact path={"/home"} render={() => <Contact {...props} />} />
-      <Route exact path={"/categories/:categoryName"} render={() => <About {...props} />} />
+      <Route exact path={"/About/:aboutName"} render={() => <About {...props} />} />
       <Route path="*" render={() => <Redirect to={"/home"} />} />
-    </Switch>
+    </Routes>
   );
 };
 

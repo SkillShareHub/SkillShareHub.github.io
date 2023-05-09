@@ -24,16 +24,14 @@ class App extends React.Component {
               </ul>
             </nav>
           </div>
-            <Routes>
-            <Route exact path="/">
-              <Home />
-            </Route>
-            <Route path="/About">
-              <About />
-            </Route>
-            <Route path="/Contact">
-              <Contact/>
-            </Route>
+          <Routes>
+            
+            <Route path="/" element={<Home />} /> 
+          
+            <Route path="/About" element={<About />} /> 
+            
+            <Route path="/Contact" element={<Contact />} /> 
+          
           </Routes>
           </div>
             );
@@ -41,3 +39,4 @@ class App extends React.Component {
 }
 
 export default App;
+
